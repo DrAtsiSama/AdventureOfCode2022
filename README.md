@@ -13,3 +13,9 @@ Avancé du calendrier de l'avant 2022
 
 ## JOUR 4 :
 ![Sortie Jour 4 ](/Day4/Jour4.png)
+
+## JOUR 5 :
+![Sortie Jour 5 ](/Day5/Jour5.png)
+
+## JOUR 6 :
+![Sortie Jour 6 ](/Day6/Jour6.png)
