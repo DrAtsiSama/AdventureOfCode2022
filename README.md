@@ -22,3 +22,6 @@ Avancé du calendrier de l'avant 2022
 
 ## JOUR 7 :
 ![Sortie Jour 7 ](/Day7/Jour7.png)
+
+## JOUR 8 :
+![Sortie Jour 8 ](/Day8/Jour8.png)
