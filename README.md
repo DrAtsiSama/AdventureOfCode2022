@@ -1,6 +1,6 @@
 # AdventureOfCode2022
 Avancé du calendrier de l'avant 2022
-
+langage : <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodeJS" width="64" height="64">
 
 ## JOUR 1 :
 ![Sortie Jour 1 ](/Day1/Jour1.png)
